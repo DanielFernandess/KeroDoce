@@ -4,7 +4,9 @@ Protótipo desenvolvido na disciplina de Projeto e Design e Interfaces do curso 
  
 # Sobre
 
-Usei conceitos importantes como alocação de memória, matrizes, arrays, estruturas lógicas e repetição. Uma interface de nível de terminal é feita para interação do usuário.
+Elaboração de designs com foco na experiência do usuário.
+
+Projeto com objetivo de um aplicativo de doces.
 
 # Plataforma utilizada
 - Figma (é uma plataforma colaborativa para construção de design de interfaces e protótipos).
