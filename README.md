@@ -17,7 +17,7 @@ Projeto com objetivo de um aplicativo de doces.
 
 ## Mobile
 
-<div align="center">
+<div>
 
 <img src="https://user-images.githubusercontent.com/80116546/203140728-0ca650c7-91e1-40e5-b378-9bb7ffdaa63a.png" width="180px" />
 
