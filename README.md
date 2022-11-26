@@ -12,7 +12,7 @@ Projeto com objetivo de um aplicativo de doces.
 - Figma (é uma plataforma colaborativa para construção de design de interfaces e protótipos).
 
 # Protótipos:
-- EM BREVE 
+- EM ATUALIZAÇÃO 
 ## Web / Desktop
 
 ## Mobile
