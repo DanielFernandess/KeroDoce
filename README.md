@@ -15,6 +15,14 @@ Projeto com objetivo de um aplicativo de doces.
 - EM ATUALIZAÇÃO 
 ## Web / Desktop
 
+<div>
+
+<img src="https://user-images.githubusercontent.com/80116546/204359117-c4aeaa4f-dbe6-4cb5-84d2-659530cc9e88.png" width="405px" />
+
+<img src="https://user-images.githubusercontent.com/80116546/204359072-80798584-d8cc-4d7f-8788-815ba94795ed.png" width="405px" />
+
+</div>
+
 ## Mobile
 
 <div>
