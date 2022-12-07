@@ -6,7 +6,7 @@ Protótipo desenvolvido na disciplina de Projeto e Design e Interfaces do curso 
 
 Elaboração de designs com foco na experiência do usuário.
 
-Projeto com objetivo de um aplicativo de doces.
+Projeto com objetivo de um site e aplicativo de doces.
 
 # Plataforma utilizada
 - Figma (é uma plataforma colaborativa para construção de design de interfaces e protótipos).
